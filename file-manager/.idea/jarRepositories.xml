@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://artifacts.i.mercedes-benz.com/artifactory/vpp-maven-virtual-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifactory-snapshots" />
+      <option name="name" value="vpp-maven-virtual-snapshots" />
+      <option name="url" value="https://artifacts.i.mercedes-benz.com/artifactory/vpp-maven-virtual-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="2_maven.oracle.com" />
+      <option name="name" value="2_maven.oracle.com" />
+      <option name="url" value="https://maven.oracle.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifactory-main-releases" />
+      <option name="name" value="vpp-main-maven-releases" />
+      <option name="url" value="https://artifacts.i.mercedes-benz.com/artifactory/vpp-main-maven-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifactory-main-snapshots" />
+      <option name="name" value="vpp-main-maven-snapshots" />
+      <option name="url" value="https://artifacts.i.mercedes-benz.com/artifactory/vpp-main-maven-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifactory-releases" />
+      <option name="name" value="vpp-maven-virtual-releases" />
+      <option name="url" value="https://artifacts.i.mercedes-benz.com/artifactory/vpp-maven-virtual-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="1_maven.apache.org" />
+      <option name="name" value="1_maven.apache.org" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+  </component>
+</project>
